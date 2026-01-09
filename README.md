@@ -5,9 +5,34 @@
 ## Hi there 👋
 #### Hi there 👋
 
-***esta es una nueva pagina***  de *practica* **pureva** ~~carro~~ ´cristian´
+***esta es una nueva pagina***  de *practica* **pureva** ~~carro~~ `cristian`
+
+```
+ plublic clas hola}
+plublic () {
+}
+}
+```
+
+| lenguaje | niver | uso      |
+|----------|-------|----------|
+|java      | alto  | blackend |
+|java      | alto  | blackend |
 
 
+- [ ] implementacion 
+- [ ] dicseño
+- [ x] cambios
+
+- item
+- cate
+- surti
+
+ <p align="center"> texto </p> 
+ 
+ ![gladiador](https://i.pinimg.com/736x/7b/52/7b/7b527b4f2beb6e02178d5419d6679e93.jpg)
+
+ ![gladiador](https://www.youtube.com/shorts/JIU4KcMZh-0?feature=share)
 <!--
 **crisiian/crisiian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
