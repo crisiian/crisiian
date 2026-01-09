@@ -5,7 +5,7 @@
 ## Hi there 👋
 #### Hi there 👋
 
-***esta es una nueva pagina***  de *practica* **pureva** ~~carro~~
+***esta es una nueva pagina***  de *practica* **pureva** ~~carro~~ ´cristian´
 
 
 <!--
